@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EdineiAbreuJr/Projeto-Integrador/issues"
   },
-  "homepage": "https://github.com/EdineiAbreuJr/Projeto-Integrador#readme"
+  "homepage": "https://github.com/EdineiAbreuJr/Projeto-Integrador#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
